@@ -12,14 +12,13 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 450%;
 }
 .logo img{
     width: 24%;
     border: 3px solid white;
     border-radius: 50px;
     margin: 5px;
-    border-radius: 450%;
+
 }
 .navbar{
     display: flex;
